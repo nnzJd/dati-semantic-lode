@@ -6,4 +6,11 @@
    ]]></notes>
         <cve>CVE-2016-1000027</cve>
     </suppress>
+    <suppress>
+        <notes><![CDATA[
+        file name: jackson-core-2.14.2.jar
+        ]]></notes>
+        <sha1>f804090e6399ce0cf78242db086017512dd71fcc</sha1>
+        <cve>CVE-2022-45688</cve>
+     </suppress>
 </suppressions>
